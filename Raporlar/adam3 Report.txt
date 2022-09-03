@@ -1,0 +1,9 @@
+Name: adam3
+Id: 1
+Sex: male
+Mothers name: kadın1		Mothers id: 3
+Fathers name: adam1		Fathers id: 2
+Phenotype: oXhrXRYoM
+Genotype:
+
+oorrMmXhXRYo

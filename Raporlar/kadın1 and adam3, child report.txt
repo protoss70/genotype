@@ -1,0 +1,13 @@
+Male child
+Hemofili: %66.67
+Hastalık1: %100.0
+Kısmi renk körlüğü: %16.67
+Hastalık2: %55.56
+Tam renk körlüğü: %6.25
+
+Female child
+Hemofili: %50.0
+Hastalık1: %0.0
+Kısmi renk körlüğü: %0.0
+Hastalık2: %0.0
+Tam renk körlüğü: %6.25
